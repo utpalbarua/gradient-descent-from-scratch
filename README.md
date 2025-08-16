@@ -1,4 +1,4 @@
-# Gradient Descent From Scratch 🚀
+# Gradient Descent From Scratch 
 
 This repository demonstrates **Gradient Descent** in **1D** and **3D** using Python, NumPy, and Matplotlib.  
 It provides animated plots to show how gradient descent moves towards minima.
@@ -28,7 +28,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## ▶️ Usage
+## Usage
 
 ### 🔹 1D Gradient Descent
 ```bash
@@ -41,7 +41,7 @@ python 3D/gradient_descent_3d.py
 ```
 ### This runs gradient decent on ```z(x,y)= sin(5x)cos(5y) / 5```
 ---
-## 📘 Learning Outcomes
+##  Learning Outcomes
 
 - Understand how gradient descent works in 1D and 3D.
 
