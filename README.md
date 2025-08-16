@@ -34,12 +34,12 @@ pip install -r requirements.txt
 ```bash
 python 1D/gradient_descent_1d.py
 ```
-### This runs gradient descent on ```y = sin(x)``` and visualizes the iterative path to a local minimum.
+This runs gradient descent on ```y = sin(x)``` and visualizes the iterative path to a local minimum.
 ### 🔹 3D Gradient Descent
 ```bash
 python 3D/gradient_descent_3d.py
 ```
-### This runs gradient decent on ```z(x,y)= sin(5x)cos(5y) / 5```
+This runs gradient decent on ```z(x,y)= sin(5x)cos(5y) / 5```
 ---
 ##  Learning Outcomes
 
