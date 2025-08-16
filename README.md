@@ -10,12 +10,8 @@ It provides animated plots to show how gradient descent moves towards minima.
   gradient-descent-from-scratch/
   │── README.md
   │── requirements.txt
-  │
-  ├── 1D/
-  │ └── gradient_descent_1d.py # Gradient descent on y = sin(x)
-  │
-  └── 3D/
-    └── gradient_descent_3d.py # Gradient descent on z = sin(5x)cos(5y)/5
+  │── gradient_descent_1d.py # Gradient descent on y = sin(x)
+  └── gradient_descent_3d.py # Gradient descent on z = sin(5x)cos(5y)/5
 ```
 
 ---
